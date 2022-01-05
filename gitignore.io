@@ -26,3 +26,4 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+# End of https://www.toptal.com/developers/gitignore/api/macos
