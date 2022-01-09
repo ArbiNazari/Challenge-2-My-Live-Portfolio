@@ -31,4 +31,4 @@ Education
 
 Live URL: https://arbinazari.github.io/Challenge-2-My-Live-Portfolio/
 
-Github: https://github.com/ArbiNazari/Challenge1
+Github: https://github.com/ArbiNazari/Challenge-2-My-Live-Portfolio
