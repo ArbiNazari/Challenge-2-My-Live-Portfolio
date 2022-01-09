@@ -29,4 +29,6 @@ Education
 
 2001-2003     CALIFORNIA STATE UNIVERSITY, LOS ANGELES.!
 
-[Uploading mockup.png…]()
+Live URL: https://arbinazari.github.io/Challenge-2-My-Live-Portfolio/
+
+Github: https://github.com/ArbiNazari/Challenge1
