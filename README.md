@@ -29,4 +29,3 @@ Education
 
 2001-2003     CALIFORNIA STATE UNIVERSITY, LOS ANGELES.!
 
-[Uploading mockup.png…]()
